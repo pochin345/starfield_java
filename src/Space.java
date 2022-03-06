@@ -19,7 +19,6 @@ public class Space {
         for (int i=0; i<numberOfStars; i++) {
             stars[i] = new Star();
         }
-
     }
 
     /**
